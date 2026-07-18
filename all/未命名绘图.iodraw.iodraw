@@ -248,10 +248,13 @@
             <mxPoint x="510" y="1598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-125" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1610" y="1730" as="sourcePoint" />
-            <mxPoint x="1660" y="1680" as="targetPoint" />
+            <mxPoint x="1380" y="1980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="1660" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
