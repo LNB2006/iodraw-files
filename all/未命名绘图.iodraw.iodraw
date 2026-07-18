@@ -49,11 +49,8 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;PC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="1510" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-28" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1630" width="60" height="30" as="geometry" />
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-29" value="SEXT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1555" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
