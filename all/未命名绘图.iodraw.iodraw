@@ -16,11 +16,11 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="690" y="1700" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1700" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="1220" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
