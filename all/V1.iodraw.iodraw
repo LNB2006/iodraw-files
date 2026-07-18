@@ -774,6 +774,12 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-365" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="622.5" y="1604" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-366" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1690" as="sourcePoint" />
+            <mxPoint x="630" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
