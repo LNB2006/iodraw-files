@@ -64,10 +64,10 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-37" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;MREQ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ALU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-38" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;MEXT&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1617.5" y="1720" width="325" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-39" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ALU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-39" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Data_RAM&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2230" y="1290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
