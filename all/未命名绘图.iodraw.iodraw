@@ -165,6 +165,9 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-83" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;alub_sel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1260" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-85" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;alub_sel&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1270" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
