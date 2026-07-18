@@ -20,7 +20,7 @@
           <mxGeometry x="1080" y="1545" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1252.5" width="190" height="107.5" as="geometry" />
+          <mxGeometry x="1440.0000000000002" y="1300" width="190" height="163.13" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1770" y="1320" width="240" height="170" as="geometry" />
@@ -243,13 +243,13 @@
           <mxGeometry x="1200" y="1625" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-103" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;A&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1320" width="70" height="25" as="geometry" />
+          <mxGeometry x="1450" y="1332.5" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-104" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;B&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1390" width="70" height="30" as="geometry" />
+          <mxGeometry x="1450" y="1410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="1300" width="70" height="30" as="geometry" />
+          <mxGeometry x="1485" y="1295" width="45" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="rlsXdw-WkSt0E-oakwgs-89">
           <mxGeometry relative="1" as="geometry">
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-107" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;br&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="1425" width="70" height="40" as="geometry" />
+          <mxGeometry x="1490" y="1440" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-108" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ram_op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1330" width="70" height="30" as="geometry" />
@@ -448,7 +448,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-177" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;C&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1360" width="50" height="30" as="geometry" />
+          <mxGeometry x="1570" y="1360" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-180" target="rlsXdw-WkSt0E-oakwgs-95">
           <mxGeometry relative="1" as="geometry">
