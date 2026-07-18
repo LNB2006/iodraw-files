@@ -43,7 +43,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;取指地址&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="1580" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NPC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="1780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
