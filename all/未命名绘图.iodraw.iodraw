@@ -73,9 +73,6 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-39" target="rlsXdw-WkSt0E-oakwgs-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;din&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1585" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rlsXdw-WkSt0E-oakwgs-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1475" as="targetPoint" />
@@ -106,12 +103,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="1620" as="sourcePoint" />
-            <mxPoint x="570" y="1570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-58" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="1620" as="sourcePoint" />
             <mxPoint x="570" y="1570" as="targetPoint" />
