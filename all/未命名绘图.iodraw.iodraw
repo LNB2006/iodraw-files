@@ -34,8 +34,8 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-13" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2020" y="1480" width="495" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-14" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:1.05pt;margin-bottom:&#xa;0pt;margin-left:.01in;text-align:left;direction:ltr;unicode-bidi:embed;&#xa;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size:14.0pt;font-family:Calibri;mso-ascii-font-family:Calibri;&#xa;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:Calibri;mso-fareast-theme-font:&#xa;minor-fareast;color:black;mso-color-index:1;letter-spacing:-.1pt;mso-font-kerning:&#xa;12.0pt;language:zh-CN;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:&#xa;text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Inst_ROM&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1450" width="110" height="60" as="geometry" />
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-14" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:1.05pt;margin-bottom:&amp;lt;br/&amp;gt;0pt;margin-left:.01in;text-align:left;direction:ltr;unicode-bidi:embed;&amp;lt;br/&amp;gt;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-family: Calibri; color: black; letter-spacing: -0.1pt;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Inst_ROM&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1460" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
