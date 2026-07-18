@@ -156,8 +156,8 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-78" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;sext_op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1175" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1050" width="300" height="280" as="geometry" />
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-81" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;sext_op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1205" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
