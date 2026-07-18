@@ -525,18 +525,6 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-207" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-101" target="rlsXdw-WkSt0E-oakwgs-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-211" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.194;exitY=0.711;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-62" target="rlsXdw-WkSt0E-oakwgs-192">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="1300" as="sourcePoint" />
-            <mxPoint x="1230" y="610" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="600" />
-              <mxPoint x="640" y="600" />
-              <mxPoint x="1320" y="600" />
-              <mxPoint x="1320" y="1358" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-212" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-213" target="rlsXdw-WkSt0E-oakwgs-203">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="920" y="1840" as="sourcePoint" />
