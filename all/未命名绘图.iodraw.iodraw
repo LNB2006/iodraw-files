@@ -209,7 +209,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-110" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ram_wdata&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1400" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ram_addr&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1680" y="1430" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
