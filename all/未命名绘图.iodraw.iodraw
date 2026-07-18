@@ -19,7 +19,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1050" width="300" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-9" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-9" value="&#xa;&#xa;&lt;table style=&quot;border-collapse:&#xa; collapse;width:147pt&quot; width=&quot;196&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&#xa; &lt;colgroup&gt;&lt;col style=&quot;mso-width-source:userset;mso-width-alt:5789;width:147pt&quot; width=&quot;196&quot;&gt;&#xa; &lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:15.5pt&quot; height=&quot;21&quot;&gt;&#xa;&#xa;  &lt;td style=&quot;height:15.5pt;width:147pt&quot; width=&quot;196&quot; class=&quot;xl66&quot; height=&quot;21&quot;&gt;rR1&lt;/td&gt;&#xa;&#xa; &lt;/tr&gt;&#xa;&lt;/tbody&gt;&lt;/table&gt;&#xa;&#xa;&#xa;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="940" y="1550" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
@@ -178,7 +178,7 @@
           <mxGeometry x="330" y="1630" width="40" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-90" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;offset&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1660" width="40" height="23.75" as="geometry" />
+          <mxGeometry x="340" y="1660" width="40" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
