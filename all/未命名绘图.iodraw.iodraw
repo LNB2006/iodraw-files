@@ -46,8 +46,8 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NPC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1488" width="50" height="30" as="geometry" />
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;PC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1483" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
