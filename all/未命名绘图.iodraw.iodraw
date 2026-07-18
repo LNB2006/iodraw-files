@@ -8,7 +8,7 @@
           <mxGeometry x="70" y="1365" width="150" height="210" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1575" width="160" height="100" as="geometry" />
+          <mxGeometry x="300" y="1566.25" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="510" y="1540" width="110" height="120" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="130" y="1460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-24" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;NPC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1518.75" width="60" height="30" as="geometry" />
+          <mxGeometry x="345" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;PC&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="1510" width="60" height="40" as="geometry" />
@@ -82,9 +82,7 @@
             <mxPoint x="628" y="1615" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="670" y="1615" />
-              <mxPoint x="670" y="1465" />
-              <mxPoint x="460" y="1465" />
-              <mxPoint x="460" y="1475" />
+              <mxPoint x="670" y="1475" />
             </Array>
           </mxGeometry>
         </mxCell>
