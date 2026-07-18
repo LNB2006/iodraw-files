@@ -125,10 +125,10 @@
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="1602.16" as="sourcePoint" />
-            <mxPoint x="530" y="1602.16" as="targetPoint" />
+            <mxPoint x="420" y="1742.16" as="sourcePoint" />
+            <mxPoint x="480" y="1742" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="1602.16" />
+              <mxPoint x="450" y="1742.16" />
             </Array>
           </mxGeometry>
         </mxCell>
