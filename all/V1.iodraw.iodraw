@@ -772,7 +772,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-365" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1820" width="60" height="80" as="geometry" />
+          <mxGeometry x="620" y="1690" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
