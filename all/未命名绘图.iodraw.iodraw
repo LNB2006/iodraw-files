@@ -439,9 +439,9 @@
             <mxPoint x="1465" y="1525" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="1575" y="1383" />
-              <mxPoint x="1640" y="1390" />
+              <mxPoint x="1670" y="1383" />
               <mxPoint x="1670" y="1810" />
-              <mxPoint x="1575" y="2085" />
+              <mxPoint x="1670" y="2090" />
               <mxPoint x="855" y="2085" />
               <mxPoint x="855" y="1898" />
             </Array>
