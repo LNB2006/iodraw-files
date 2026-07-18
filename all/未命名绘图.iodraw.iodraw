@@ -78,11 +78,12 @@
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="698" y="1450" as="targetPoint" />
+            <mxPoint x="530" y="1460" as="targetPoint" />
             <mxPoint x="628" y="1600" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="750" y="1600" />
-              <mxPoint x="750" y="1450" />
+              <mxPoint x="670" y="1600" />
+              <mxPoint x="670" y="1450" />
+              <mxPoint x="530" y="1450" />
             </Array>
           </mxGeometry>
         </mxCell>
