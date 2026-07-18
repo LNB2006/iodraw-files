@@ -111,10 +111,10 @@
           <mxGeometry x="760" y="1060" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;funt3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="750" y="1115" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;funt7&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1130" width="60" height="40" as="geometry" />
+          <mxGeometry x="745" y="1165" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-73" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;sext_op&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990" y="1050" width="70" height="30" as="geometry" />
