@@ -274,10 +274,11 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;rD1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1290" y="1545" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-210" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-102" target="rlsXdw-WkSt0E-oakwgs-203">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-210" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.181;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-102" target="rlsXdw-WkSt0E-oakwgs-203">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="1590" />
+              <mxPoint x="1360" y="1640" />
+              <mxPoint x="1360" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -545,7 +546,7 @@
             <mxPoint x="1360" y="1680" as="targetPoint" />
             <Array as="points">
               <mxPoint x="990" y="2050" />
-              <mxPoint x="1360" y="2050" />
+              <mxPoint x="1380" y="2050" />
               <mxPoint x="1350" y="1730" />
             </Array>
           </mxGeometry>
