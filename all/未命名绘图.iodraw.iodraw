@@ -199,7 +199,7 @@
           <mxGeometry x="1110" y="1598.75" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-95" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;wD&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1635" width="70" height="30" as="geometry" />
+          <mxGeometry x="1110" y="1635" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-96" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;wE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1120" y="1665" width="40" height="30" as="geometry" />
@@ -458,11 +458,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-190" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-95" target="rlsXdw-WkSt0E-oakwgs-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1070" y="1640" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
