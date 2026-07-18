@@ -123,6 +123,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="1790" as="sourcePoint" />
+            <mxPoint x="400" y="1740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
