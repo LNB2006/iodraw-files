@@ -754,7 +754,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-354" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;19:15&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1107.5" y="1515.63" width="62.5" height="20" as="geometry" />
+          <mxGeometry x="1110" y="1520" width="60" height="15.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-358" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;24:20&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1559.37" width="60" height="15.63" as="geometry" />
+        </mxCell>
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-359" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;19:15&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1540" width="60" height="15.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
