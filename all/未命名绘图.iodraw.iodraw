@@ -37,7 +37,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-14" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:1.05pt;margin-bottom:&amp;lt;br/&amp;gt;0pt;margin-left:.01in;text-align:left;direction:ltr;unicode-bidi:embed;&amp;lt;br/&amp;gt;mso-line-break-override:none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-family: Calibri; color: black; letter-spacing: -0.1pt;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Inst_ROM&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="1460" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-16" value="指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="2050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
