@@ -650,7 +650,7 @@
           <mxGeometry x="2260" y="1285" width="60" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-256" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;读数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="1757.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="2260" y="1760" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-265" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.902;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rlsXdw-WkSt0E-oakwgs-121" target="rlsXdw-WkSt0E-oakwgs-13">
           <mxGeometry relative="1" as="geometry">
