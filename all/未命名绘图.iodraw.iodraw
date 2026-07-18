@@ -663,8 +663,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-282" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1614" width="120" height="60" as="geometry" />
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-282" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1536" width="90" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
