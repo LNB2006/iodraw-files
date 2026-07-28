@@ -321,7 +321,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-110" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ram_wdata&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1892.5" y="1230" width="127.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ram_addr&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-111" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ram_addr&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1892.5" y="1275" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="rlsXdw-WkSt0E-oakwgs-110" target="rlsXdw-WkSt0E-oakwgs-110" edge="1">
