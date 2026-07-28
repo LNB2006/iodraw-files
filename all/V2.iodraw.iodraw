@@ -240,7 +240,7 @@
           <mxGeometry x="1180" y="1598.75" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-95" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;wD&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="1683.75" width="30" height="30" as="geometry" />
+          <mxGeometry x="1180" y="1683.75" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-96" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;wE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1650" width="40" height="30" as="geometry" />
@@ -776,7 +776,7 @@
         <mxCell id="rlsXdw-WkSt0E-oakwgs-368" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="1260" y="1690" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rlsXdw-WkSt0E-oakwgs-369" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;clk&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="rlsXdw-WkSt0E-oakwgs-369" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;clk&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1205" y="1762.5" width="40" height="25" as="geometry" />
         </mxCell>
         <mxCell id="rlsXdw-WkSt0E-oakwgs-372" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="rlsXdw-WkSt0E-oakwgs-369" target="rlsXdw-WkSt0E-oakwgs-369" edge="1">
